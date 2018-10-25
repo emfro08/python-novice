@@ -10,3 +10,10 @@ List the files
 - scripts/utils.py
 
 By Emilie Froussart - Training from 25-10-2018 SC
+
+       _                   .-=-.          .-==-.
+     { }      __        .' O o '.       /  -<' )
+     { }    .' O'.     / o .-. O \     /  .--v`
+     { }   / .-. o\   /O  /   \  o\   /O /
+      \ `-` /   \ O`-'o  /     \  O`-`o /
+       `-.-`     '.____.'       `.____.'
